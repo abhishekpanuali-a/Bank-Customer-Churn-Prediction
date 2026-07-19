@@ -104,8 +104,9 @@ Bank-Customer-Churn-Risk-Prediction/
 │
 ├── Bank_Customer_Churn_Prediction.ipynb
 ├── Bank_Customer_Churn_Risk_Scoring.csv
-├── Bank Customer Churn Risk Analysis by Aditya Tiwari.twbx
 ├── README.md
+├── Bank Customer Churn Risk Analysis by Abhishek Panuali
+
 
 
 
