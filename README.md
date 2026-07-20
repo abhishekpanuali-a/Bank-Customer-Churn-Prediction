@@ -83,7 +83,7 @@ These metrics help classify customers according to their likelihood of churn, en
  
 
 View the Dashboard:
-https://docs.google.com/document/d/1uoQ2W6vsXj34-79ET-AOtF_Ejb49zS97bUWFeHy_eBE/edit?usp=sharing
+https://public.tableau.com/app/profile/abhishek.panuali/viz/BankCustomerChurnRiskAnalysisbyAbhishekPanuali/BankCustomerChurnRiskAnalysisDashboard
 
 
  Dashboard Visualizations
@@ -137,7 +137,7 @@ Uttranchal University
 
 GitHub: https://github.com/abhishekpanuali-a
 
-Tableau : https://docs.google.com/document/d/1uoQ2W6vsXj34-79ET-AOtF_Ejb49zS97bUWFeHy_eBE/edit?usp=sharing
+Tableau Dashboard : https://public.tableau.com/app/profile/abhishek.panuali/viz/BankCustomerChurnRiskAnalysisbyAbhishekPanuali/BankCustomerChurnRiskAnalysisDashboard
 
 
 If you found this project useful, please consider giving this repository a Star
